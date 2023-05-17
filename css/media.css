@@ -1,0 +1,94 @@
+@media (max-width:1399px) {
+    .navbar-brand {
+    
+        font-size: 30px;
+        
+    }
+
+.navbar-brand span {
+    font-size: 30px;
+}
+h1 {
+    
+    font-size: 60px;
+    line-height: 60px;
+ 
+
+}
+h1 strong {
+
+    font-size: 60px;
+    line-height: 60px;
+    
+}
+header{
+    padding-top: 70px;
+}
+
+}
+@media (max-width:1199px) {
+    .nav-link {
+        
+        font-size: 15px;
+        line-height: 20px;
+        
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+    h1 {
+        font-size: 55px;
+    
+    }
+    h1 strong {
+        font-size: 55px;
+        }
+        .btn-custom {
+        
+            font-size: 18px;
+            line-height: 18px;
+            padding: 15px 15px;
+
+        }
+        h2 {
+            
+            font-size: 40px;
+            line-height: 45px;
+        
+        }
+        .featursSection {
+            padding: 85px 0px 50px;
+        }
+        .featursSection2 h2 {
+            
+            font-size: 40px;
+            line-height: 45px;
+           
+        }
+        .block h3 {
+            
+            font-size: 40px;
+            line-height: 15px;
+        }
+        .block {
+            
+            max-width: 250px;
+            padding: 35px 15px 28px;
+            transform: translate(-87px,-100px);
+        }
+        .fact {
+            border: 1px solid #FD646F;
+            border-radius: 8px;
+            padding: 23px 13px 54px;
+            text-align: center;
+        }
+        .factsection {
+            padding-bottom: 72px;
+        }
+        footer p {
+            padding: 31px 199px;
+
+            font-size: 17px;
+            line-height: 21px;
+    
+        }
+        }
